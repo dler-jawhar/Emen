@@ -1,0 +1,17 @@
+.fm{
+    padding: 5%;
+   
+    
+}
+.card-img-top {
+    height: 13rem;
+    object-fit: cover;
+}
+.card-text{
+    height: 3rem;
+}
+.food-img{
+    height: 5rem;
+    width: 6rem;
+    
+}
